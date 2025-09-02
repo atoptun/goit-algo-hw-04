@@ -1,3 +1,8 @@
+.vscode/
+pics/
+dest/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
